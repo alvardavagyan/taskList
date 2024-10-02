@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "735e",
+      "text": "Task Managment System",
+      "status": "In-progress",
+      "date": "30.09"
+    },
+    {
+      "id": "08ea",
+      "text": "Calculator",
+      "status": "Completed",
+      "date": "22.04"
+    },
+    {
+      "id": "4e28",
+      "text": "Social media",
+      "status": "Completed",
+      "date": "13.08"
+    }
+  ]
+}
